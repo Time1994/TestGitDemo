@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim
+END
+fade_in_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/fade_in_center.xml
+END
+fade_out_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/fade_out_center.xml
+END
+slide_in_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/slide_in_top.xml
+END
+slide_out_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/slide_out_top.xml
+END
+slide_in_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/slide_in_bottom.xml
+END
+slide_out_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/eroadcar/!svn/ver/10/Dialog_lib/res/anim/slide_out_bottom.xml
+END

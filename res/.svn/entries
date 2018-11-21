@@ -1,0 +1,61 @@
+10
+
+dir
+10
+https://192.168.199.200/svn/eroadcar/Dialog_lib/res
+https://192.168.199.200/svn/eroadcar
+
+
+
+2016-05-12T12:01:28.575451Z
+10
+amos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+954656c6-e557-3e47-8c83-3f35a5d2340c
+
+values
+dir
+
+drawable-hdpi
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values-zh-rCN
+dir
+

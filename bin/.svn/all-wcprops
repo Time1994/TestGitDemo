@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/eroadcar/!svn/ver/10/Dialog_lib/bin
+END
+R.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/eroadcar/!svn/ver/10/Dialog_lib/bin/R.txt
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/eroadcar/!svn/ver/10/Dialog_lib/bin/.DS_Store
+END
+dialog_lib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/eroadcar/!svn/ver/10/Dialog_lib/bin/dialog_lib.jar
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/eroadcar/!svn/ver/10/Dialog_lib/bin/AndroidManifest.xml
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus
+END
+SimpleAnimationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/SimpleAnimationListener.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/Utils.java
+END
+DialogPlus.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/DialogPlus.java
+END
+OnItemClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnItemClickListener.java
+END
+HeightAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/HeightAnimation.java
+END
+ViewHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/ViewHolder.java
+END
+ListHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/ListHolder.java
+END
+Holder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/Holder.java
+END
+HolderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/HolderAdapter.java
+END
+OnDismissListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnDismissListener.java
+END
+OnBackPressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnBackPressListener.java
+END
+OnHolderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnHolderListener.java
+END
+GridHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/GridHolder.java
+END
+ExpandTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/ExpandTouchListener.java
+END
+OnCancelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnCancelListener.java
+END
+OnClickListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/eroadcar/!svn/ver/10/Dialog_lib/src/com/orhanobut/dialogplus/OnClickListener.java
+END
